@@ -21,7 +21,7 @@ Run the script sudo/root privs:
 
 ## Follow the prompts and provide the required information to build your custom firewall rule.
 
-Once the rule is generated, the script will apply the changes to the UFW firewall.
+Once the rule is generated, the script will apply the changes to firewalld.
 
 | :point_up:    | Please note that running this script may require administrative privileges, so ensure that you have the necessary permissions before executing it. |
 |---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
