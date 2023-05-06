@@ -32,7 +32,7 @@ Once the rule is generated, the script will apply the changes to firewalld.
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Check out the Demo
-[![Firewalld Demo](screenshot/firewalld.png)](http://www.youtube.com/watch?v=t9b0rgQcyaw)
+[![Firewalld Demo](Screenshots/firewalld.png)](http://www.youtube.com/watch?v=t9b0rgQcyaw)
 
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to create a pull request or submit an issue on the GitHub repository.
