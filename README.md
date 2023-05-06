@@ -31,8 +31,8 @@ Once the rule is generated, the script will apply the changes to firewalld.
 |:exclamation:  Warning   Modifying firewall settings can have significant security implications. Make sure you understand the consequences of the changes you make and review the generated firewall rule before applying it.|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Demo
-https://youtu.be/t9b0rgQcyaw
+## Check out the Demo
+[![Firewalld Demo](https://img.youtube.com/vi/t9b0rgQcyaw.jpg)](http://www.youtube.com/watch?v=t9b0rgQcyaw)
 
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to create a pull request or submit an issue on the GitHub repository.
